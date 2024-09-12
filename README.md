@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working on **Self Improvement**
 
-- 🌱 I’m currently learning **Next.js and Typescript**
-
 - 👯 I’m looking to collaborate on **Tech Projects**
 
-- 💬 Ask me about **MERN, PHP & MySQL, UI Design, Graphic Design**
+- 💬 Ask me about **Web Dev, Mobile Dev, UI Design & Graphic design**
 
 - 📫 How to reach me **denzeltchaptche@gmail.com**
 
