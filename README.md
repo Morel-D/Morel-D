@@ -39,7 +39,8 @@ I love turning complex problems into **elegant solutions** with clean code and s
 ### 📱 Mobile Development  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=flutter" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=xml" height="40"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40"/>
+  <img src="https://skillicons.dev/icons?i=gradle" height="40"/>
 </p>
 
 ### 🖥️ Desktop Development  
@@ -65,7 +66,7 @@ I love turning complex problems into **elegant solutions** with clean code and s
 
 ### 🧰 Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=wordpress,postman,androidstudio,idea,vscode,arduino,notion" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=wordpress,postman,idea,vscode,arduino,notion" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" height="40"/>
 </p>
 
@@ -88,6 +89,17 @@ I love turning complex problems into **elegant solutions** with clean code and s
   <a href="https://medium.com/@moreldenzel" target="_blank">
     <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
+  <a href="https://techamana.com/talent/tchaptche-morel-denzel" target="_blank">
+    <img src="https://img.shields.io/badge/Techamana-00A86B?style=for-the-badge&logoColor=white" alt="Techamana Profile"/>
+  </a>
+  <a href="https://www.fr.freelancer.com/u/denzelt8?frm=denzelt8&sb=t" target="_blank">
+    <img src="https://img.shields.io/badge/Freelancer-0077B5?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer Profile"/>
+  </a>
+<a href="https://portfolio-dd-ruddy.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Portfolio"/>
+</a>
+
+
 </p>
 
 ---
