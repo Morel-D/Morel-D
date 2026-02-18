@@ -99,6 +99,14 @@ I love turning complex problems into **elegant solutions** with clean code and s
   <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Portfolio"/>
 </a>
 
+<a href="https://www.behance.net/denzeltchaptche" target="_blank">
+  <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
+</a>
+&nbsp;
+<a href="https://portfolio-dd-ruddy.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Portfolio"/>
+</a>
+
 
 </p>
 
