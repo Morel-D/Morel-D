@@ -95,7 +95,7 @@ I love turning complex problems into **elegant solutions** with clean code and s
   <a href="https://www.fr.freelancer.com/u/denzelt8?frm=denzelt8&sb=t" target="_blank">
     <img src="https://img.shields.io/badge/Freelancer-0077B5?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer Profile"/>
   </a>
-<a href="https://portfolio-dd-ruddy.vercel.app/" target="_blank">
+<a href="https://denzel-labs.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Portfolio"/>
 </a>
 
