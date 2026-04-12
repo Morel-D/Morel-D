@@ -33,7 +33,7 @@ I love turning complex problems into **elegant solutions** with clean code and s
 
 ### 🌐 Web Development  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,bootstrap,tailwind,nodejs,php,laravel,java,rust" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,bootstrap,tailwind,nodejs,php,laravel,java,spring" height="40"/>
 </p>
 
 ### 📱 Mobile Development  
