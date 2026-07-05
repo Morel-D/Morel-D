@@ -1,78 +1,75 @@
-# 🚀 Hey 👋 What's Up? I'm Morel Denzel!
-
-<h3 align="left">💻 Software Developer | 🚀 Tech Explorer</h3>
+# Morel Denzel: Senior Full-Stack & Mobile Engineer
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=morel-d&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
+I build and ship production software end-to-end architecture, backend, mobile, deployment.  
+Founder of **[Kora](https://kora.onl)**, a live SaaS platform I designed and launched: Flutter mobile app, React web frontend, Node.js/Express backend, full CI/CD.
 
-## 🌟 About Me  
-I'm a passionate developer and designer who thrives on creating **innovative web & mobile applications** and **intuitive user interfaces**.  
-I love turning complex problems into **elegant solutions** with clean code and stunning visuals.
-
-- 🔭 **Currently working on**: Building cutting-edge tech projects and sharpening my skills.  
-- 🌱 **Learning**: Advanced frameworks, cloud integrations & modern design trends.  
-- 👯 **Open to collaborate on**: Open-source projects, startups & innovative tech ideas.  
-- 💬 **Ask me about**: Web/Mobile Dev, UI/UX Design, System Design & anything tech-related.  
-- 📫 **Reach me at**: [denzeltchaptche@gmail.com](mailto:denzeltchaptche@gmail.com)  
+Currently available for **freelance contracts**, **part-time remote collaboration**, and **technical partnerships** with startups working in fintech, field data, Offline-first, or emerging markets.
 
 ---
 
-## 🌍 Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/English-%2300599C.svg?&style=for-the-badge&logo=google-translate&logoColor=white" />
-  <img src="https://img.shields.io/badge/French-%2300A86B.svg?&style=for-the-badge&logo=google-translate&logoColor=white" />
-</p>
+## What I've shipped
 
+- **Kora** - offline-first SaaS for NGO field agents, built on a custom offline-first architecture: local-first storage, conditional sync, conflict resolution, and full audit trails for zero-connectivity field environments. Multi-role RBAC, JWT auth, full CI/CD via GitHub Actions. Solo build, production since Jul 2025. → [kora.onl](https://kora.onl)
+- **WatchTower** - API monitoring platform: Spring Boot 3, React 19, PostgreSQL, Docker multi-stage deploy. Real-time health checks, JWT auth, audit trails. → [repo](https://github.com/Morel-D/API-monitoring-system)
+- **CashPilot** - Treasury and cash management platform for businesses to track, control, and optimize cash flow through invoices, payments, and financial records. Modern full-stack architecture with clean financial data modeling. → [repo](https://github.com/Morel-D/CashPilot)
+- **GitHub Analytics Dashboard** - Production-grade analytics platform for GitHub profiles: contribution heatmaps, repository explorer, tech-stack analysis, side-by-side user comparison. Built with React 18, TypeScript, Tailwind, Zustand, and Recharts. → [repo](https://github.com/Morel-D/github-analytic-dashboard)
+- **4 production Flutter apps at Openxtech** - 500+ active users across organizations. Now mandated by partner organizations for all field agents.
 
 ---
 
-## 🛠️ My Tech Stack  
+## Open to
 
-### 🌐 Web Development  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,bootstrap,tailwind,nodejs,php,laravel,java,spring" height="40"/>
-</p>
+- 💼 Part-time remote contracts (10–20 hrs/week)
+- 🤝 Technical co-founder / partnership with early-stage startups
+- 🛠️ Freelance: UI Design, UX Research, backend APIs, Flutter mobile, React frontends, fintech integrations
+- 📍 Based in Cameroon (WAT/UTC+1): overlaps with EU business hours
 
-### 📱 Mobile Development  
+📫 denzeltchaptche@gmail.com · [LinkedIn](https://www.linkedin.com/in/morel-tchaptche) · [Portfolio](https://denzel-labs.vercel.app/)
+
+---
+
+## Tech stack
+
+### Mobile
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=flutter" height="40"/>
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40"/>
-  <img src="https://skillicons.dev/icons?i=gradle" height="40"/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="40"/>
 </p>
 
-### 🖥️ Desktop Development  
+### Frontend
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=electron" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind" height="40"/>
 </p>
 
-### 🗄️ Databases  
+### Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,java,spring" height="40"/>
 </p>
 
-### 🎨 Design  
+### Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,illustrator,canva" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,redis" height="40"/>
 </p>
 
-### 🔄 Versioning & CI/CD  
+### DevOps & tooling
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions" height="40"/>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,git,postman,vscode" height="40"/>
 </p>
 
-### 🧰 Tools  
+### Design
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=wordpress,postman,idea,vscode,arduino,notion" height="40"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="40"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub stats
+
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=morel-d&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150"/>
   <img src="https://github-profile-trophy.vercel.app?username=morel-d&theme=dracula&column=4&row=1&margin-w=8&margin-h=8" height="150"/>
@@ -80,8 +77,15 @@ I love turning complex problems into **elegant solutions** with clean code and s
 
 ---
 
+## Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/French-Native-00A86B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/English-Professional-0077B5?style=for-the-badge"/>
+</p>
 
-## 🔗 Connect with Me  
+---
+
+## Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/morel-tchaptche" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -89,27 +93,10 @@ I love turning complex problems into **elegant solutions** with clean code and s
   <a href="https://medium.com/@moreldenzel" target="_blank">
     <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
-  <a href="https://techamana.com/talent/tchaptche-morel-denzel" target="_blank">
-    <img src="https://img.shields.io/badge/Techamana-00A86B?style=for-the-badge&logoColor=white" alt="Techamana Profile"/>
+  <a href="https://denzel-labs.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logoColor=white"/>
   </a>
-  <a href="https://www.fr.freelancer.com/u/denzelt8?frm=denzelt8&sb=t" target="_blank">
-    <img src="https://img.shields.io/badge/Freelancer-0077B5?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer Profile"/>
+  <a href="https://www.behance.net/denzeltchaptche" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
   </a>
-<a href="https://denzel-labs.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Portfolio"/>
-</a>
-
-<a href="https://www.behance.net/denzeltchaptche" target="_blank">
-  <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
-</a>
-
-
 </p>
-
----
-
-## 🚀 Let's Build Something Amazing!  
-I'm always excited to dive into new projects, collaborate on innovative ideas, or contribute to open-source communities.  
-If you have a project in mind or just want to chat about tech, design, or anything in between, reach out!  
-
-✨ *“Code with passion, design with purpose.”* ✨
