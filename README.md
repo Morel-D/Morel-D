@@ -21,13 +21,6 @@ Currently available for **freelance contracts**, **part-time remote collaboratio
 
 ---
 
-## Open to
-
-- 💼 Part-time remote contracts (10–20 hrs/week)
-- 🤝 Technical co-founder / partnership with early-stage startups
-- 🛠️ Freelance: UI Design, UX Research, backend APIs, Flutter mobile, React frontends, fintech integrations
-- 📍 Based in Cameroon (WAT/UTC+1): overlaps with EU business hours
-
 📫 denzeltchaptche@gmail.com · [LinkedIn](https://www.linkedin.com/in/morel-tchaptche) · [Portfolio](https://denzel-labs.vercel.app/)
 
 ---
